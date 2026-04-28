@@ -4,7 +4,8 @@ An intelligent, secure, and automated customer support ticket classification sys
 
 This project demonstrates a robust AI workflow that not only classifies support tickets by category, priority, and sentiment but also incorporates critical enterprise-grade security features like **PII Anonymization** and an **LLM Security Guardrail** to prevent prompt injections and data extraction attacks.
 
-![UI Screenshot](core/graph.png) *(Note: Add actual screenshot of the UI here)*
+![Graph UI](core/graph.png)
+![Interface UI](core/interface.png)
 
 ## 🎯 Purpose
 
